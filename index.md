@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
@@ -49,6 +47,7 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
+```
 ###### Header 6
 
 | head1        | head two          | three |
@@ -59,16 +58,20 @@ end
 | ok           | good `zoute` drop | yumm  |
 
 ### There's a horizontal rule below this.
+```
 
 * * *
 
+```
 ### Here is an unordered list:
 
 *   Item foo
 *   Item bar
 *   Item baz
 *   Item zip
+```
 
+```
 ### And an ordered list:
 
 1.  Item one
@@ -77,7 +80,9 @@ end
 1.  Item four
 
 ### And a nested list:
+```
 
+```
 - level 1 item
   - level 2 item
   - level 2 item
@@ -90,7 +95,8 @@ end
 - level 1 item
   - level 2 item
   - level 2 item
-- level 1 item
+- level 1 item 
+```
 
 ### Small image
 
