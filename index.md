@@ -4,7 +4,7 @@ layout: default
 
 # **Welcome to rad0v's project and documentation cave**
 ---
-[Link to recent project](./another-page.html).
+So basically whatever I learn and whatever I make is documented here. All the projects that are created by me can be found on my main github page. 
 
 ## List of current Projects:
 1. a
